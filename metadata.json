@@ -1,0 +1,5 @@
+{
+  "name": " LexGuardian Desktop Assistant",
+  "description": "A high-performance local desktop application for civil advocates to manage cases, clients, and timelines with Gemini-powered summarization and reminders.",
+  "requestFramePermissions": []
+}
